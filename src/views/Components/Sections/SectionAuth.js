@@ -73,7 +73,7 @@ export default function SectionDownload() {
             les utilisateurs, effectuer l{"'"}inscription et la
             vérification multifactorielle, récupérer les mots de passe oubliés et
             déverrouiller les comptes.<br />
-            <a href="https://fredericbrodar.com/">
+            <a href="https://inf.protonwebmaster.fr/">
               Plus
             </a>
             </div>

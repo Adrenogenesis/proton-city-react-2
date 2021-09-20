@@ -64,14 +64,14 @@ export default function PicturesPage() {
                   questionnaires mis à votre disposition, et sur simple demande,
                   votre entreprise pourra être publiée dans l{"'"}
                   <a
-                    href="https://dev.fredericbrodar.com/wp/wordpress/"
+                    href="https://inf.protonwebmaster.fr/wp/wordpress/"
                     target="parent"
                   >
                     <BlinkLink />
                   </a>
                 </p>
                 <p>
-                  <a href="https://dev.fredericbrodar.com">
+                  <a href="https://inf.protonwebmaster.fr">
                     Des années d{"'"}expérience
                   </a>{" "}
                   on permit de découvrir, et de créer une directive autour de ce
@@ -113,7 +113,7 @@ export default function PicturesPage() {
                   Se doter de nouveaux outils représentatifs de la culture{" "}
                   <a href="https://www.redhat.com/fr/topics/devops">DevOps</a>,
                   ainsi que ceux de la méthode{" "}
-                  <a href="dev.fredericbrodar.com/pdf/13th-annual-state-of-agile-report.pdf">
+                  <a href="inf.protonwebmaster.fr/pdf/13th-annual-state-of-agile-report.pdf">
                     Agile
                   </a>{" "}
                   est un atout supplémentaire. Le client devient acteur dans les
@@ -129,18 +129,18 @@ export default function PicturesPage() {
                 </p>
                 <GridContainer className={classes.textCenter} justify="center">
                   <GridItem xs={12} sm={8} md={4}>
-                    <a href="https://dev.fredericbrodar.com/img/circleci.jpg">
+                    <a href="https://inf.protonwebmaster.fr/img/circleci.jpg">
                       <img
                         alt="circleci"
-                        src="https://dev.fredericbrodar.com/img/circleci.jpg"
+                        src="https://inf.protonwebmaster.fr/img/circleci.jpg"
                       />
                     </a>
                   </GridItem>
                   <GridItem xs={12} sm={8} md={4}>
-                    <a href="https://dev.fredericbrodar.com/img/netlify.jpg">
+                    <a href="https://inf.protonwebmaster.fr/img/netlify.jpg">
                       <img
                         alt="netlify"
-                        src="https://dev.fredericbrodar.com/img/netlify.jpg"
+                        src="https://inf.protonwebmaster.fr/img/netlify.jpg"
                       />
                     </a>
                   </GridItem>
@@ -158,13 +158,13 @@ export default function PicturesPage() {
                 </p>
                 <ul>
                   <li>
-                    <a href="https://dev.fredericbrodar.com/#auth">
+                    <a href="https://inf.protonwebmaster.fr/#auth">
                       GIA ou Gestion des Identités ( Avec ou sans mot de passe
                       ).
                     </a>
                   </li>
                   <li>
-                    <a href="https://dev.fredericbrodar.com/#tech">
+                    <a href="https://inf.protonwebmaster.fr/#tech">
                       Intégration Stripe sur tous les types de site.
                     </a>
                   </li>
@@ -175,7 +175,7 @@ export default function PicturesPage() {
                   primordial pour la survie de l{"'"}entreprise. De nouvelles
                   idées permettent de développer des relations avec ses clients,
                   ou avec des prospects:{" "}
-                  <a href="https://dev.fredericbrodar.com/protongame/">
+                  <a href="https://inf.protonwebmaster.fr/protongame/">
                     Protongame
                   </a>
                   .
@@ -186,7 +186,7 @@ export default function PicturesPage() {
                   {"'"}
                   utilisation d{"'"}une application qui fait interagir le
                   visiteur.
-                  <a href="https://dev.fredericbrodar.com/protongame/">
+                  <a href="https://inf.protonwebmaster.fr/protongame/">
                     {" "}
                     Protongame
                   </a>{" "}
@@ -212,22 +212,22 @@ export default function PicturesPage() {
                 <GridContainer className={classes.textCenter} justify="center">
                   <GridItem xs={12} sm={8} md={4}>
                     <div>
-                      <a href="https://dev.fredericbrodar.com/img/pipedream.jpg">
+                      <a href="https://inf.protonwebmaster.fr/img/pipedream.jpg">
                         <img
                           alt="pipedream"
-                          src="https://dev.fredericbrodar.com/img/pipedream.jpg"
+                          src="https://inf.protonwebmaster.fr/img/pipedream.jpg"
                         />
                       </a>
                     </div>
                   </GridItem>
                   <GridItem xs={12} sm={8} md={4}>
-                    <a href="https://dev.fredericbrodar.com/img/pipedream-mongodb.jpg">
+                    <a href="https://inf.protonwebmaster.fr/img/pipedream-mongodb.jpg">
                       <img src={mongodb} alt="mongodb" />
                     </a>
                   </GridItem>
                 </GridContainer>
                 <p>
-                  <a href="https://dev.fredericbrodar.com/protongame/">
+                  <a href="https://inf.protonwebmaster.fr/protongame/">
                     Protongame
                   </a>{" "}
                   est une application {"'"}Call-to-action{"'"}.{" "}

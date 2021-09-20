@@ -12,7 +12,7 @@ function Storm()  {
         <p><strong>Protégez votre Entreprise contre les cyberattaques avec nos solutions Stormshield !</strong></p>
         <p>Un Par-feu (firewall) tout-en-un, un allié dans la protection de vos réseaux.</p>
         <p><a href="#section-p4">Vente, installation et configuration - Demandez votre devis.</a></p>
-        <a href="https://dev.fredericbrodar.com/pdf/SNS-FR-Security-Packs-Brochure-201709.pdf"><img src="https://dev.fredericbrodar.com/img/stormshield1-min.jpg" width="768px" height="auto" alt="stormshield"></img></a>
+        <a href="https://inf.protonwebmaster.fr/pdf/SNS-FR-Security-Packs-Brochure-201709.pdf"><img src="https://inf.protonwebmaster.fr/img/stormshield1-min.jpg" width="768px" height="auto" alt="stormshield"></img></a>
         <hr />
         <div className="d-flex justify-content-end">
           <Button onClick={() => setShow(false)} variant="outline-success">

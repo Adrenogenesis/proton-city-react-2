@@ -33,10 +33,10 @@ export default function SectionCompletedExamples() {
                 </ul>
               </div>
               <div className={classes.img4a}>
-                <a href="https://dev.fredericbrodar.com/img/protonwebmaster-site-min.jpg">
+                <a href="https://inf.protonwebmaster.fr/img/protonwebmaster-site-min.jpg">
                   <img
                     alt="test intrusion"
-                    src="https://dev.fredericbrodar.com/img/protonwebmaster-site-min.jpg"
+                    src="https://inf.protonwebmaster.fr/img/protonwebmaster-site-min.jpg"
                   />
                 </a>
               </div>
@@ -60,20 +60,20 @@ export default function SectionCompletedExamples() {
         <GridContainer className={classes.textCenter} justify="center">
           <GridItem xs={12} sm={8} md={4}>
             <div className={classes.img4b}>
-              <a href="https://dev.fredericbrodar.com/img/audit.png">
+              <a href="https://inf.protonwebmaster.fr/img/audit.png">
                 <img
                   alt="test intrusion"
-                  src="https://dev.fredericbrodar.com/img/audit.png"
+                  src="https://inf.protonwebmaster.fr/img/audit.png"
                 />
               </a>
             </div>
           </GridItem>
           <GridItem xs={12} sm={8} md={4}>
             <div className={classes.img4b}>
-              <a href="https://dev.fredericbrodar.com/img/arachni-audit.png">
+              <a href="https://inf.protonwebmaster.fr/img/arachni-audit.png">
                 <img
                   alt="audit"
-                  src="https://dev.fredericbrodar.com/img/arachni-audit.png"
+                  src="https://inf.protonwebmaster.fr/img/arachni-audit.png"
                 />
               </a>
             </div>

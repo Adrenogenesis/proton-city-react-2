@@ -24,7 +24,7 @@ export default function SectionExamples() {
         <GridContainer justify="center">
           <GridItem xs={12} sm={12} md={6}>
             <ScrollAnimation animateIn="fadeIn" animateOut="fadeOut">
-              <a href="https://fredericbrodar.com/#tech">
+              <a href="https://inf.protonwebmaster.fr/#tech">
                 <img
                   src={landing}
                   alt="simulation"
@@ -46,7 +46,7 @@ export default function SectionExamples() {
           </GridItem>
           <GridItem xs={12} sm={12} md={6}>
             <ScrollAnimation animateIn="fadeIn" animateOut="fadeOut">
-              <a href="https://fredericbrodar.com/#tech">
+              <a href="https://inf.protonwebmaster.fr/#tech">
                 <img
                   src={profile}
                   alt="https://codepen.io/JavaScriptJunkie/pen/YzzNGeR"

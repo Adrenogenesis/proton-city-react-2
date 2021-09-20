@@ -20,7 +20,7 @@ export default function SectionNotifications() {
       <SnackbarContent
         message={
           <span>
-            <a href="https://fredericbrodar.com/pdf/tarifs-protonwebmaster-2020-3.pdf">
+            <a href="https://inf.protonwebmaster.fr/pdf/tarifs-protonwebmaster-2020-3.pdf">
               <b>
                 <strong>Téléchargez nos tarifs 2020 - Site internet statique - Site WordPress</strong>
               </b>
