@@ -7,13 +7,14 @@ function Storm()  {
 
   return (
     <>
-      <Alert show={show} variant="rose">
+      <Alert show={show} variant="primary">
         <Alert.Heading>NFT et crypto-monnaie</Alert.Heading>
         <p><strong>Adrenogenesis</strong></p>
-        <p> NFT : Tokens non fongible. Une nouvelle dimension artistique sur la Blockchain.</p>
+        <p> NFT : Tokens non fongible. Une nouvelle dimension artistique sur la Blockchain <a href="https://adrenogenesis.com">adrenogenesis.com.</a></p>
         <p><a href="#section-p4">Exploration - Investissement.</a></p>
         <a href="https://adrenogenesis.com"><img src="https://far.adrenogenesis.com/images/kirsten_p3a.jpg" width="768px" height="auto" alt="adrenogenesis"></img></a>
         <hr />
+        <p>Adrenogenesis, a new emotional dimension in blockchain.</p>
         <div className="d-flex justify-content-end">
           <Button onClick={() => setShow(false)} variant="outline-success">
            Fermer

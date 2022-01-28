@@ -71,11 +71,10 @@ export default function SectionNotifications() {
       <SnackbarContent
         message={
           <span>
-            <a href="https://dev.protonwebmaster.com/">
+            <a href="https://cuisinealancienne.com/">
               <b>
                 <strong>
-                  Commerçants : aide de 500 euros pour la création d’un site
-                  Internet
+                  Site WordPress en cours de développement: Traiteur et cuisine à l’ancienne.
                 </strong>
               </b>
             </a>

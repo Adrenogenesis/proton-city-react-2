@@ -32,7 +32,7 @@ export default function Footer(props) {
           <List className={classes.list}>
             <ListItem className={classes.inlineBlock}>
               <a
-                href="https://twitter.com/protonwebmaster"
+                href="https://twitter.com/Adrenogenesis"
                 className={classes.block}
                 target="_blank"
               >
@@ -41,21 +41,21 @@ export default function Footer(props) {
             </ListItem>
             <ListItem className={classes.inlineBlock}>
               <a
-                href="https://dev.fredericbrodar.com/projeqtor/view/main.php"
+                href="https://adrenogenesis.com"
                 className={classes.block}
                 target="_blank"
               >
-                Projeqtor
+                Adrenogenesis
               </a>
             </ListItem>
             <Link to="prestations-page" className={classes.link}>
             <ListItem className={classes.inlineBlock}>
             <a
-                href="https://fredericbrodar.com/auth0/sts/"
+                href="https://cuisinealancienne.com/"
                 className={classes.block}
                 target="_blank"
               >
-                Connexion/Inscription
+                Cuisinealancienne
               </a>                  
             </ListItem>
               </Link>
@@ -73,17 +73,17 @@ export default function Footer(props) {
             </ListItem>
             <ListItem className={classes.inlineBlock}>
                <a
-                href="https://www.bourges.infoptimum.com/pro/rians/developpement-web-base-de-donnee-sites-internetcyber-securite-consulting-webdesign/protonwebmaster-850.html"
+                href="https://github.com/Adrenogenesis/"
                 className={classes.block}
                 target="_blank"
               >
-               <img src="https://www.bourges.infoptimum.com/images/mod-logo.png" alt="infoptimum" height="37px" width="200px"/> 
+               <img src="https://far.adrenogenesis.com/images/logo-github.png" alt="github" height="40px" width="40px"/> 
               </a>
             </ListItem>
           
           </List>
         </div>
-       <div className={classes.right}>Brodar Frédéric 3 Rond Point Jacques Coeur 18220 RIANS - <a href="tel:0659910270">Tél: 06.59.91.02.70 - </a>
+       <div className={classes.right}>PROTONWEBMASTER - <a href="tel:0659910270">Tél: 06.59.91.02.70 - </a>
            &copy; {1900 + new Date().getYear()} - protonwebmaster.com - <a href="https://fr.reactjs.org/">ReactJs</a> Website. Webmaster Bourges.       
        </div>
       </div>
