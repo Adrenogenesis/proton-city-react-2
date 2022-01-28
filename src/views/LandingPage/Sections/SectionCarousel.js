@@ -114,7 +114,7 @@ export default function SectionCarousel() {
                   </div>
                 </div>
                 <div>
-                  <a href="https://www.moumatraiteur.com/">
+                  <a href="https://cuisinealancienne.com/">
                     <img
                       src={image6}
                       alt="Third slide"

@@ -49,11 +49,11 @@ export default function Components() {
             <GridItem>
               <div className={classes.brand}>
                 <Pulse>
-                  <h1 className={classes.title}>Protonwebmaster</h1>
+                  <h1 className={classes.title}>Frédéric Brodar</h1>
                 </Pulse>
                 <Bounce>
                   <h3 className={classes.subtitle}>
-                    <strong>Création de site web - Audit de sécurité</strong>
+                    <strong>Création de site web sur mesure.</strong>
                   </h3>
                 </Bounce>
                 <br />
@@ -71,7 +71,7 @@ export default function Components() {
           <div className={classNames(classes.cybs)}>
             <h4>Solutions web et Cybersécurité</h4>
             <h5>
-              On vous propose des solutions complètes de développement, d{"'"}
+              Je vous propose des solutions complètes de développement, d{"'"}
               audits de sécurité et de marketing de sites Web axées sur vos
               objectifs:
             </h5>

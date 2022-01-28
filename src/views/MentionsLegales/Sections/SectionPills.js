@@ -37,7 +37,7 @@ export default function SectionPills() {
                     tabContent: (
                       <span>
                         <h4>1. PRÉSENTATION DU SITE.</h4>
-                        <p>Protonwebmaster - Frédéric BRODAR.</p>
+                        <p>Frédéric BRODAR.</p>
                         <p>
                           En vertu de l{"'"}article 6 de la loi n° 2004-575 du
                           21 juin 2004 pour la confiance dans l{"'"}économie
@@ -48,8 +48,8 @@ export default function SectionPills() {
                         </p>
                         <br />
                         <p>
-                          Propriétaire : Protonwebmaster - Créateur : BRODAR
-                          Frédéric - Responsable publication : Protonwebmaster –
+                          Propriétaire : Frédéric Brodar  - Créateur : BRODAR
+                          Frédéric - Responsable publication : Frédéric Brodar –
                           webmst[@]Protonwebmaster[point]com Le responsable
                           publication est une personne physique ou une personne
                           morale. Webmaster : BRODAR Frédéric –
@@ -64,7 +64,7 @@ export default function SectionPills() {
                         <p>
                           Le site https://www.protonwebmaster.com/ a pour objet
                           de fournir une information concernant l’ensemble des
-                          activités de la société.
+                          activités de la société. Actuellement, aucune prestation ne pourra être éffectuée.
                         </p>
                         <p>
                           Protonwebmaster s’éfforce de fournir sur le site

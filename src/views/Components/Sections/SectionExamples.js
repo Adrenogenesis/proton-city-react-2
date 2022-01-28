@@ -46,7 +46,7 @@ export default function SectionExamples() {
           </GridItem>
           <GridItem xs={12} sm={12} md={6}>
             <ScrollAnimation animateIn="fadeIn" animateOut="fadeOut">
-              <a href="https://inf.protonwebmaster.fr/#tech">
+              <a href="https://store.cuisinealancienne.com/">
                 <img
                   src={profile}
                   alt="https://codepen.io/JavaScriptJunkie/pen/YzzNGeR"

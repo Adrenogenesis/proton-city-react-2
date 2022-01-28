@@ -33,7 +33,7 @@ export default function SectionCompletedExamples() {
                 </ul>
               </div>
               <div className={classes.img4a}>
-                <a href="https://inf.protonwebmaster.fr/img/protonwebmaster-site-min.jpg">
+                <a href="https://www.protonwebmaster.com/prestations-page">
                   <img
                     alt="test intrusion"
                     src="https://inf.protonwebmaster.fr/img/protonwebmaster-site-min.jpg"
@@ -60,7 +60,7 @@ export default function SectionCompletedExamples() {
         <GridContainer className={classes.textCenter} justify="center">
           <GridItem xs={12} sm={8} md={4}>
             <div className={classes.img4b}>
-              <a href="https://inf.protonwebmaster.fr/img/audit.png">
+              <a href="https://www.protonwebmaster.com/landing-page">
                 <img
                   alt="test intrusion"
                   src="https://inf.protonwebmaster.fr/img/audit.png"
@@ -70,7 +70,7 @@ export default function SectionCompletedExamples() {
           </GridItem>
           <GridItem xs={12} sm={8} md={4}>
             <div className={classes.img4b}>
-              <a href="https://inf.protonwebmaster.fr/img/arachni-audit.png">
+              <a href="https://www.protonwebmaster.com/landing-page">
                 <img
                   alt="audit"
                   src="https://inf.protonwebmaster.fr/img/arachni-audit.png"

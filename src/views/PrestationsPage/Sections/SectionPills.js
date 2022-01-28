@@ -18,7 +18,7 @@ import work1 from "assets/img/examples/wordpress-min.png";
 import work4 from "assets/img/examples/joomla-min.png";
 import chezmariesite from "assets/img/examples/chezmarie-site-min.jpg";
 import chezmariestore from "assets/img/examples/chezmarie-min.jpg";
-import mobileapp from "assets/img/examples/mobile-app-min.png";
+import mobileapp from "assets/img/examples/cuisinealancienne_flutter.jpg";
 import analytics from "assets/img/examples/analytics-min.jpg";
 
 import styles from "assets/jss/material-kit-react/views/componentsSections/pillsStyle.js";
@@ -200,12 +200,12 @@ export default function SectionPills() {
                           </GridItem>
                           <GridItem xs={12} sm={12} md={6}>
                             <a
-                              href="https://inf.protonwebmaster.fr/mstore/"
+                              href="https://store.cuisinealancienne.com/"
                               className={classes.block}
                             >
                               <img
                                 src={chezmariestore}
-                                alt="chez marie store"
+                                alt="cuisinealancienne"
                                 className={
                                   classes.imgRaised +
                                   " " +
@@ -239,23 +239,22 @@ export default function SectionPills() {
                         <p>
                           Une application mobile peut être crée en complément d
                           {"'"}un site internet. Une conception d{"'"}
-                          application mobiles sous Android avec les Frameworks
-                          Angular, React, ionic ou Framework7.
+                          application mobiles sous Android avec Flutter.
                           <br />
                           La publication sur Google Play Store permet de toucher
                           un autre type d{"'"}audiance, le suivit et la
                           maintenance sont compris dans la prestation.
                         </p>
                         <br />
-                        <p>Une application en complément de votre site.</p>
+                        <p>Une application qui est en synchronisation avec votre site.</p>
                         <GridItem xs={12} sm={12} md={6}>
                           <a
-                            href="https://f7b1-691a0.firebaseapp.com"
+                            href="https://cuisinealancienne.com/developpeur/"
                             className={classes.block}
                           >
                             <img
                               src={mobileapp}
-                              alt="ionic-angular"
+                              alt="flutter"
                               className={
                                 classes.imgRaised +
                                 " " +
